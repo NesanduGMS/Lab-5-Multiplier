@@ -48,8 +48,8 @@ begin
   begin
   
     -- Put initialisation code here
-    A <="1100";
-    B <="1100";
+    A <="1010";
+    B <="1010";
     wait for 100ns;
 
 
